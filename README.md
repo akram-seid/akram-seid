@@ -1,7 +1,7 @@
-- 👋 Hi, I’m akram seid
+- 👋 Hi, I’m Akram Seid Endris aka. Nobile
 - 👀 I’m interested in ...coding and hardware programming
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Artificial Intelligence
+- 💞️ I’m looking to collaborate on ... AI and ML
 - 📫 How to reach me ...
 Email me at akiseid@gmail.com
 
