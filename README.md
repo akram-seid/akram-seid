@@ -1,17 +1,42 @@
-# Hi, I'm Akram Seid Endris 👋
-*aka. Nobile*
+# Akram Seid's Profile
 
-## About Me
-- 👀 Interested in coding and hardware programming
-- 🌱 Currently learning Artificial Intelligence
-- 💞️ Looking to collaborate on AI and ML projects
+Welcome to my GitHub profile! Here you can find various projects I have been working on across different technologies.
 
-## Get in Touch
-📫 **Email:** [akiseid@gmail.com](mailto:akiseid@gmail.com)
+## Technologies
+- **Java**
+- **Spring Boot**
+- **React**
+- **Python**
+- **Node.js**
+- **Flutter**
+- **PostgreSQL**
+- **MySQL**
+- **Vaadin**
 
----
+## Showcase of Projects
 
-<!---
-akram-seid/akram-seid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Spring Backend
+- [spring-backend](https://github.com/akram-seid/spring-backend)
+
+### Library Management System
+- [lihket-library](https://github.com/akram-seid/lihket-library)
+
+### Attendance Systems
+- [attendance-systems](https://github.com/akram-seid/attendance-systems)
+
+### Movie Insight Application
+- [movie-insight](https://github.com/akram-seid/movie-insight)
+
+### Quran Projects
+- [quran-projects](https://github.com/akram-seid/quran-projects)
+
+### Form Generator
+- [form-generator](https://github.com/akram-seid/form-generator)
+
+### Competitive Programming
+- [competitive-programming](https://github.com/akram-seid/competitive-programming)
+
+### Other Projects
+- [Other projects can be listed here if needed]
+
+Feel free to explore my repositories and connect with me for collaboration!
