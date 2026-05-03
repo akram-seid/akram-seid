@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:0969DA,75:2DA44E,100:BF8700&text=Akram%20Seid%20Endris&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Mint%20Developer%20%7C%20Flutter%20%7C%20Java%20%7C%20Python&descAlignY=58&descAlign=50" alt="Akram Seid profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:0969DA,75:2DA44E,100:BF8700&text=Akram%20Seid%20Endris&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Nobile%20%7C%20Flutter%20%7C%20Java%20%7C%20Python&descAlignY=58&descAlign=50" alt="Akram Seid profile banner" />
 
   <p>
     <a href="https://github.com/akram-seid">
